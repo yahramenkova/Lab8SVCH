@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Получение данных JSON</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Склад товаров интернет магазина</h1>
+
+  <h2>Товары:</h2>
+  <ul id="data-list"></ul>
+
+  <h2>Акционные товары:</h2>
+  <ul id="special-offers-list"></ul>
+
+  <button id="getDataButton">Загрузить данные</button>
+
+  <h2>Скачать файл с товарами склада</h2>
+  <button onclick="downloadFile('xml')">Download XML</button>
+  <button onclick="downloadFile('html')">Download HTML</button>
+  <button onclick="downloadFile('json')">Download JSON</button>
+
+  <script  src="script.js"></script>
+</body>
+</html>

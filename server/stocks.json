@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Ноутбук Dell XPS 13",
+      "price": 1200,
+      "discount": 20
+    },
+    {
+      "name": "Смартфон iPhone 13",
+      "price": 200,
+      "discount": 15
+    },
+    {
+      "name": "Телевизор Samsung QLED Q80A",
+      "price": 400,
+      "discount": 10
+    },
+    {
+      "name": "Наушники Sony WH-1000XM4",
+      "price": 100,
+      "discount": 30
+    },
+    {
+      "name": "Игровая консоль PlayStation 5",
+      "price": 790,
+      "discount": 25
+    }
+  ]
