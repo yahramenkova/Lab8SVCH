@@ -1,0 +1,62 @@
+.basket {
+    margin: 1.25rem;
+    padding: 1.25rem;
+    border: 1px solid #ccc;
+    border-radius: 0.5rem;
+    min-height: 31.5rem;
+  }
+  
+  .basket h2 {
+    color: #333;
+    margin: 0;
+  }
+  
+  .basket ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 2rem;
+  }
+  
+  .basket li {
+    margin-bottom: 1.25rem;
+    padding: 0.625rem;
+    border: 1px solid #ddd;
+    border-radius: 0.25rem;
+    background-color: #f9f9f9;
+  }
+  
+  .basket img {
+    max-width: 6.25rem;
+    max-height: 6.25rem;
+    margin-right: 0.625rem;
+  }
+  
+  .basket p {
+    margin: 0;
+  }
+  
+  .basket .busket_img {
+    border-radius: 0.25rem;
+  }
+  
+  .button-del {
+    background-color: rgb(255, 0, 0);
+  }
+  .basket .total-price {
+    text-align: center;
+    margin-top: 1.25rem;
+    font-size: 1.2rem;
+    color: #333;
+  }
+  .basket .status-busket{
+    text-align: center;
+    margin-top: 1.25rem;
+    font-size: 1.2rem;
+    color: #333;
+  }
+ .buy-button{
+   background-color:cadetblue;
+   height: 3.9rem;
+   width: 16rem;
+  }
+  

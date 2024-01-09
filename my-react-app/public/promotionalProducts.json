@@ -1,0 +1,83 @@
+ [
+      {
+        "id": 1,
+        "name": "iPhone 13 Pro",
+        "description": "Powerful smartphone with advanced features and a high-quality camera.",
+        "price": 1099.99,
+        "image": "https://i.pinimg.com/474x/89/e6/11/89e611fc879b8375af421f0200beb452.jpg",
+        "quantity": 50
+      },
+      {
+        "id": 2,
+        "name": "MacBook Pro 14-inch",
+        "description": "Lightweight and powerful laptop for work and entertainment.",
+        "price": 1999.99,
+        "image": "https://i.pinimg.com/474x/12/3e/f6/123ef687e4fa6f6c9fe9c22df36045fc.jpg",
+        "quantity": 30
+      },
+      {
+        "id": 3,
+        "name": "Sony WH-1000XM4 Wireless Headphones",
+        "description": "Premium wireless headphones with noise cancellation and excellent sound quality.",
+        "price": 349.99,
+        "image": "https://i.pinimg.com/474x/cd/b7/e5/cdb7e59407efd3973fb4ddf61600ae34.jpg",
+        "quantity": 20
+      },
+      {
+        "id": 4,
+        "name": "Breville Oracle Touch Coffee Machine",
+        "description": "Automatic coffee machine for coffee enthusiasts.",
+        "price": 2499.99,
+        "image": "https://i.pinimg.com/474x/4d/1b/b9/4d1bb9278c956c3c96668e6224310b62.jpg",
+        "quantity": 25
+      },
+      {
+        "id": 5,
+        "name": "LG C1 4K OLED TV",
+        "description": "High-quality 4K OLED TV with stunning picture quality.",
+        "price": 1999.99,
+        "image": "https://i.pinimg.com/474x/11/34/fb/1134fb2141179e0ff27c431a387a12a1.jpg",
+        "quantity": 15
+      },
+      {
+        "id": 6,
+        "name": "iPad Pro 12.9-inch",
+        "description": "Powerful tablet for work and entertainment.",
+        "price": 1099.99,
+        "image": "https://i.pinimg.com/474x/44/ed/35/44ed358deea55940b4676c8001268f76.jpg",
+        "quantity": 18
+      },
+      {
+        "id": 7,
+        "name": "Sony Alpha 7 IV Professional Camera",
+        "description": "Professional camera with 8K recording capabilities.",
+        "price": 2499.99,
+        "image": "https://i.pinimg.com/474x/b0/37/48/b037482da61ac649a097dde76e0ac3fc.jpg",
+        "quantity": 12
+      },
+      {
+        "id": 8,
+        "name": "Dell XPS 13",
+        "description": "Reliable and powerful laptop for everyday tasks.",
+        "price": 1299.99,
+        "image": "https://i.pinimg.com/474x/be/f1/1f/bef11f2f6724f73fff1f2ee909706416.jpg",
+        "quantity": 22
+      },
+      {
+        "id": 9,
+        "name": "AirPods Pro",
+        "description": "Wireless earbuds with excellent noise cancellation.",
+        "price": 249.99,
+        "image": "https://i.pinimg.com/474x/9f/83/d9/9f83d9dd4cc63df479b0e2917411149a.jpg",
+        "quantity": 28
+      },
+      {
+        "id": 10,
+        "name": "Samsung Galaxy Watch 4",
+        "description": "Modern smartwatch with a variety of features.",
+        "price": 349.99,
+        "image": "https://i.pinimg.com/474x/5f/63/ae/5f63ae84317bfa86f7f88f2e78dbdf0b.jpg",
+        "quantity": 20
+      }
+    ]
+  

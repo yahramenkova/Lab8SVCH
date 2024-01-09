@@ -1,0 +1,36 @@
+.modal .popup-overlay {
+  position: relative;
+  top: 13rem;
+  left: 28rem;
+  width: 900px;
+  height: 900px;
+  background-color: rgba(181, 89, 89, 0.5);
+  display: flex;
+  justify-content: center;
+  border-radius: 1rem;
+  align-items: center;
+  z-index: 999;
+}
+.element.style{
+  position: relative;
+
+}
+ 
+  .close {
+    position: absolute;
+    top: 0.0001rem;
+    right: 0.5rem;
+    font-size: 2rem;
+    cursor: pointer;
+    background: none;
+    border: none;
+    padding: 0;
+  }
+
+  .button-about{
+    background-color: cadetblue;
+  }
+  .image-popup{
+    width: 250px;
+    height: 250px;
+  }

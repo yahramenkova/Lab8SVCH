@@ -1,0 +1,165 @@
+[
+      {
+        "id": 1,
+        "name": "Смартфон Samsung Galaxy S22",
+        "description": "Мощный смартфон с передовыми технологиями и отличной камерой.",
+        "price": 799.99,
+        "image": "https://i.pinimg.com/474x/cb/00/73/cb00738f1010dfd42e53b7a1095a367f.jpg",
+        "quantity": 15
+      },
+      {
+        "id": 2,
+        "name": "Ноутбук Dell XPS 15",
+        "description": "Легкий и производительный ноутбук для работы и развлечений.",
+        "price": 1299.99,
+        "image": "https://i.pinimg.com/474x/bd/2b/db/bd2bdb53098cd78ff06689b3a9535590.jpg",
+        "quantity": 18
+      },
+      {
+        "id": 3,
+        "name": "Наушники Sony WH-1000XM4",
+        "description": "Беспроводные наушники с шумоподавлением и отличным звуком.",
+        "price": 299.99,
+        "image": "https://i.pinimg.com/474x/dd/0f/8e/dd0f8ecca2fb534008ff66d304117767.jpg",
+        "quantity": 5
+      },
+      {
+        "id": 4,
+        "name": "Кофемашина De'Longhi",
+        "description": "Автоматическая кофемашина для истинных кофе-гурманов.",
+        "price": 499.99,
+        "image": "https://i.pinimg.com/474x/38/2c/35/382c353e193963c94b99d9a81fcb0240.jpg",
+        "quantity": 35
+      },
+      {
+        "id": 5,
+        "name": "Телевизор LG OLED CX",
+        "description": "4K OLED телевизор с потрясающим качеством изображения.",
+        "price": 1499.99,
+        "image": "https://i.pinimg.com/474x/be/0c/65/be0c6550e82aead4d81ea8d2c7613cc8.jpg",
+        "quantity": 19
+      },
+      {
+        "id": 6,
+        "name": "Планшет Apple iPad Pro",
+        "description": "Мощный планшет для работы и развлечений.",
+        "price": 899.99,
+        "image": "https://i.pinimg.com/474x/5a/be/d6/5abed6993730e193410a336163e86a64.jpg",
+        "quantity": 15
+      },
+      {
+        "id": 7,
+        "name": "Фотокамера Canon EOS R5",
+        "description": "Профессиональная фотокамера с возможностью съемки в 8K.",
+        "price": 3499.99,
+        "image": "https://i.pinimg.com/474x/e2/d1/00/e2d100210bcffaf0d816f01d4ff81027.jpg",
+        "quantity": 11
+      },
+      {
+        "id": 8,
+        "name": "Ноутбук Acer Aspire",
+        "description": "Мощный и надежный ноутбук для повседневных задач.",
+        "price": 799.99,
+        "image": "https://i.pinimg.com/474x/84/44/6e/84446e3e5bd384620f17d3fb71b054f7.jpg",
+        "quantity": 17
+      },
+      {
+        "id": 9,
+        "name": "Наушники Bose QuietComfort 35 II",
+        "description": "Беспроводные наушники с отличным шумоподавлением.",
+        "price": 249.99,
+        "image": "https://i.pinimg.com/474x/20/38/29/20382909d1d4f14f517f0ac347706526.jpg",
+        "quantity": 21
+
+      },
+      {
+        "id": 10,
+        "name": "Смарт-часы Apple Watch Series 7",
+        "description": "Современные умные часы с множеством функций.",
+        "price": 399.99,
+        "image": "https://i.pinimg.com/474x/23/4c/b0/234cb0a28715f630d7fe9bb218b03be1.jpg",
+        "quantity": 22
+      },
+      {
+        "id": 11,
+        "name": "Холодильник Samsung Family Hub",
+        "description": "Умный холодильник с встроенным дисплеем и камерами внутри.",
+        "price": 1999.99,
+        "image": "https://i.pinimg.com/474x/83/95/a4/8395a495fd50072fabc5df2a16466c88.jpg",
+        "quantity": 18
+      },
+      {
+        "id": 12,
+        "name": "Ноутбук MacBook Pro 16",
+        "description": "Производительный ноутбук для профессиональных задач.",
+        "price": 2399.99,
+        "image": "https://i.pinimg.com/474x/e0/43/b0/e043b0f01453fcacddc4b2b3a399efda.jpg",
+        "quantity": 29
+      },
+      {
+        "id": 13,
+        "name": "Пылесос Dyson V11",
+        "description": "Беспроводной пылесос с мощным всасыванием и фильтром HEPA.",
+        "price": 499.99,
+        "image": "https://i.pinimg.com/474x/d4/3f/12/d43f12555ba543546e8df4d4ea7dad29.jpg",
+        "quantity": 11
+      },
+      {
+        "id": 14,
+        "name": "Сотовый роутер Huawei 5G CPE Pro",
+        "description": "5G роутер для быстрого и стабильного интернета.",
+        "price": 299.99,
+        "image": "https://avatars.mds.yandex.net/i?id=2241dcd592a9f4563cdd370e2463cea6851defcb-9869529-images-thumbs&n=13",
+        "quantity": 12
+      },
+      {
+        "id": 15,
+        "name": "Смарт-телевизор Xiaomi Mi TV 4A",
+        "description": "Бюджетный смарт-телевизор с хорошим качеством изображения.",
+        "price": 349.99,
+        "image": "https://i.pinimg.com/474x/34/e8/30/34e8303063b6514501e3b539a2dfb705.jpg",
+        "quantity": 20
+      },
+      {
+        "id": 16,
+        "name": "Стиральная машина LG Inverter",
+        "description": "Стиральная машина с инверторным двигателем и множеством программ.",
+        "price": 699.99,
+        "image": "https://i.pinimg.com/564x/14/7c/e7/147ce76a5f2f4bf608915b996849d5f5.jpg",
+        "quantity": 19
+      },
+      {
+        "id": 17,
+        "name": "Кофемолка Breville Smart Grinder",
+        "description": "Профессиональная кофемолка с настройкой степени помола.",
+        "price": 149.99,
+        "image": "https://i.pinimg.com/474x/84/ee/24/84ee24bbef1452768d0a496e26cb155d.jpg",
+        "quantity": 20
+      },
+      {
+        "id": 18,
+        "name": "Сковорода T-fal Non-Stick",
+        "description": "Антипригарная сковорода для приготовления вкусных блюд.",
+        "price": 29.99,
+        "image": "https://i.pinimg.com/474x/e5/de/82/e5de82ac82c75b22ff200f5a80f65f4c.jpg",
+        "quantity": 10
+      },
+      {
+        "id": 19,
+        "name": "Фитнес-браслет Fitbit Charge 5",
+        "description": "Браслет для мониторинга физической активности и здоровья.",
+        "price": 149.99,
+        "image": "https://i.pinimg.com/474x/40/1d/17/401d17046e8520bae56605cfc8582257.jpg",
+        "quantity": 17
+      },
+      {
+        "id": 20,
+        "name": "Кофеварка Nespresso Vertuo Plus",
+        "description": "Компактная кофеварка для приготовления вкусного кофе.",
+        "price": 149.99,
+        "image": "https://i.pinimg.com/474x/a5/d0/35/a5d035b4acd4b9d7abccd372bb5a172c.jpg",
+        "quantity": 5
+
+      }
+]
+  

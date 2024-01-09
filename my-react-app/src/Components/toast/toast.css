@@ -1,0 +1,19 @@
+.promo-header {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .promo-toast {
+    width: 400px; /* Adjust the width as needed */
+    background-color: #007bff; /* Change the background color */
+    color: #fff; /* Change the text color */
+    margin-bottom: 20px;
+  }
+  .toast {
+    position: absolute;
+    top: 9rem;
+    right: 1rem; /* Adjust the distance from the right side */
+    margin-bottom: 1rem;
+    background-color: #34db6e;
+    animation: fadeIn 4s ease-in-out;
+  }
+  

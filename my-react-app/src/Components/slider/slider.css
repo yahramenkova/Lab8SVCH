@@ -1,0 +1,28 @@
+.carousel-item {
+    text-align: center;
+  }
+  
+  .carousel-caption {
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 20px;
+  }
+  .img-slider{
+    margin-top: 1rem;
+    max-width: 24rem;
+    height: 25rem;
+    margin-bottom: 13rem;
+  }
+  .carousel-control-next{
+   background-color: black;
+   width: 2rem;
+   height: 17rem;
+   margin-top: 5rem;
+  }
+  .carousel-control-prev{
+    background-color: black;
+    width: 2rem;
+    height: 17rem;
+    margin-top: 5rem;
+   }
+  

@@ -1,0 +1,51 @@
+ul {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 1rem;
+  }
+  
+  li {
+    border: 1px solid #ddd;
+    padding: 15px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Выравнивание по центру */
+  }
+  
+  .products_img {
+    max-width: 17rem;
+    height: 13rem;
+  }
+  
+  h3, p {
+    margin: 0;
+  }
+
+  li h3{
+    font-size: 1.5rem;
+  }
+
+  Button {
+    margin-top: 10px;
+  }
+  
+  .add-button{
+    margin-left: 2rem;
+  }
+  h2 {
+    color: #333;
+    font-size: 2rem;
+    animation: fadeIn 1s ease-in-out; /* Add fade-in animation */
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
